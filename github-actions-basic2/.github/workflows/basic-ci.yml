@@ -21,4 +21,3 @@ jobs:
 
       - name: Print Success Message
         run: echo "CI Pipeline Completed Successfully"
-
